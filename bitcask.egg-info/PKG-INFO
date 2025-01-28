@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: bitcask
+Version: 0.1.0
+Summary: A Python implementation of the Bitcask storage engine
+Author: Your Name
+Author-email: your.email@example.com
+Keywords: database,storage,key-value store
+Requires-Python: >=3.8
+Requires-Dist: BTrees>=4.11.3
