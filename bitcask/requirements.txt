@@ -1,3 +1,0 @@
-BTrees>=4.11.3
-pytest>=7.0.0
-PyYAML>=6.0.1
